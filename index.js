@@ -8,8 +8,8 @@ setInterval(function () {
     headers: {
       'User-Agent': 'Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
       'Referer': "https://www.instagram.com/accounts/login/",
-      'x-csrftoken': "",
-      'Cookie': "rur=; shbid=; csrftoken=; shbts=; sessionid=; ds_user_id=; ig_did=; mid=",
+      'x-csrftoken': `${config.x-csrftoken}`,
+      'Cookie': `rur=${config.rur}; shbid=${config.shbid}; csrftoken=${config.csrftoken}; shbts=${config.shbts}; sessionid=${config.sessionid}; ds_user_id=${config.ds_user_id}; ig_did=${config.ig_did}; mid=${config.mid}`,
       'Accept': '/',
       'Connection': 'keep-alive'
     },
