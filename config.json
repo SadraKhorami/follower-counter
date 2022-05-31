@@ -1,6 +1,16 @@
 {
-    "token":"",
-    "vchannel":"",
-    "username":""
-
+  "token": "",
+  "vchannel": "",
+  "username": "",
+    
+  "x-csrftoken": "",
+    
+  "rur": "",
+  "shbid": "",
+  "csrftoken": "",
+  "shbts": "",
+  "sessionid": "",
+  "ds_user_id": "",
+  "ig_did": "",
+  "mid": ""
 }
