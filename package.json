@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "request": "^2.88.2"
+  },
+  "name": "follower-count",
+  "version": "1.0.0",
+  "description": "The simplest script to get the number of followers of a Instagram page and apply it to a discord voice channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadraKhorami/follower-count.git"
+  },
+  "keywords": [
+    "instagram",
+    "counter",
+    "discord",
+    "bot"
+  ],
+  "author": "∞ Fox#6367 - www.foxteam.ir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadraKhorami/follower-count/issues"
+  },
+  "homepage": "https://github.com/SadraKhorami/follower-count#readme"
+}
