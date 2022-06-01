@@ -58,4 +58,4 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 To define cookie data, just install the `Cookie Tab Viewer plugin` in your browser and then open your Instagram page in the `browser` and copy the datas with this plugin | [Cookie Tab Viewer - chrome extension](https://chrome.google.com/webstore/detail/cookie-tab-viewer/fdlghnedhhdgjjfgdpgpaaiddipafhgk?hl=en)
 
 ## 📝 Author
-[Sadra Khorami](https://github.com/sadrakhorami) | If you have any problems or questions, be sure to join our [Discord server]([https://github.com/sadrakhorami](https://discord.gg/dWjWdSkTth)).
+[Sadra Khorami](https://github.com/sadrakhorami) | If you have any problems or questions, be sure to join our [Discord server](https://discord.gg/dWjWdSkTth).
