@@ -1,8 +1,8 @@
 ![logo](https://cdn.discordapp.com/attachments/793854885296603168/981103558617350204/bg.png)
 <a href="https://discord.gg/dWjWdSkTth"><img src="https://img.shields.io/discord/981104086462103552.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://github.com/SadraKhorami/follower-count/pulls"><img src="https://img.shields.io/github/issues-pr/SadraKhorami/follower-count" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/SadraKhorami/follower-count/issues"><img src="https://img.shields.io/github/issues/SadraKhorami/follower-count" alt="Issues Badge"/></a>
-<a href="https://github.com/SadraKhorami/follower-count/blob/master/LICENSE"><img src="https://img.shields.io/github/license/SadraKhorami/follower-count?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/SadraKhorami/follower-counter/pulls"><img src="https://img.shields.io/github/issues-pr/SadraKhorami/follower-counter" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/SadraKhorami/follower-counter/issues"><img src="https://img.shields.io/github/issues/SadraKhorami/follower-counter" alt="Issues Badge"/></a>
+<a href="https://github.com/SadraKhorami/follower-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/SadraKhorami/follower-counter?color=2b9348" alt="License Badge"/></a>
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 # 🤖 Follower counter bot
 
@@ -17,7 +17,7 @@
 
 Step one:
 ```sh
-Download the ZIP from the github or clone the repository using "git clone https://github.com/SadraKhorami/follower-count.git".
+Download the ZIP from the github or clone the repository using "git clone https://github.com/SadraKhorami/follower-counter.git".
 ```
 Step two:
 ```sh
