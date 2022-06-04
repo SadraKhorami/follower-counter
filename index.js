@@ -18,7 +18,7 @@ setInterval(function () {
     console.log("Followers updated to " + body["graphql"]["user"]["edge_followed_by"]["count"]);
     client.channels.cache.get(config.vchannel).setName("🟡 INSTAGRAM: " + body["graphql"]["user"]["edge_followed_by"]["count"])
   })
-}, 600000);
+}, 1800000);
 
 
 const client = new DiscordJS.Client({
